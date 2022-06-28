@@ -1,0 +1,35 @@
+name: twa_package
+version: 0.0.1
+description: A new Flutter plugin project.
+environment: 
+  sdk: '>=2.17.3 <3.0.0'
+  flutter: '>=2.5.0'
+
+dependencies: 
+  plugin_platform_interface: ^2.0.2
+  carousel_slider: 4.1.1
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  plugin: 
+    platforms: 
+      android: 
+        package: com.thewebaddicts.twa_package
+        pluginClass: TwaPackagePlugin
+      ios: 
+        pluginClass: TwaPackagePlugin
+      web: 
+        pluginClass: TwaPackagePlugin
+
+jsonToDart: 
+  outputFolder: lib/models
+  nullValueDataType: String
+  typeChecking: true
+  nullSafety: true
+

@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - twa_package (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - twa_package (from `.symlinks/plugins/twa_package/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  twa_package:
+    :path: ".symlinks/plugins/twa_package/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  twa_package: 942fbc9bf7c23c435c061f3a204589479f43951b
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.3
