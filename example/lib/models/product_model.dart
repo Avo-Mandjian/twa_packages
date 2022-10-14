@@ -22,6 +22,24 @@ Map<String, dynamic> productModelMap = {
           "https://cms.patchi.twalab.com/storage/data/products_gallery/6197a87020f61.jpg",
       "thumb":
           "https://cms.patchi.twalab.com/storage/data/products_gallery_600_600/6197a87020f61.jpg"
+    },
+    {
+      "image":
+          "https://cms.patchi.twalab.com/storage/data/products_gallery/6197a87020f61.jpg",
+      "thumb":
+          "https://cms.patchi.twalab.com/storage/data/products_gallery_600_600/6197a87020f61.jpg"
+    },
+    {
+      "image":
+          "https://cms.patchi.twalab.com/storage/data/products_gallery/6197a87020f61.jpg",
+      "thumb":
+          "https://cms.patchi.twalab.com/storage/data/products_gallery_600_600/6197a87020f61.jpg"
+    },
+    {
+      "image":
+          "https://cms.patchi.twalab.com/storage/data/products_gallery/6197a87020f61.jpg",
+      "thumb":
+          "https://cms.patchi.twalab.com/storage/data/products_gallery_600_600/6197a87020f61.jpg"
     }
   ],
   "price_ttc": 140.910141025640001544161350466310977935791015625,
